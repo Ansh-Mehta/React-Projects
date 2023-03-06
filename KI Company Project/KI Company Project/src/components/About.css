@@ -1,0 +1,26 @@
+#bg_image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: screen;
+    width: 100%;
+    height: 700px;
+}
+#about {
+    float: right;
+}
+#about_pic {
+    float: left;    
+}
+#vision {
+    float: left;
+}
+#vision_pic {
+    float: right;
+}
+#objective {
+    text-align: center;
+}
+/* #objective_pic {
+    float: left;
+    margin-right: 300px;
+} */
